@@ -1,0 +1,50 @@
+[Loading game info]
+Game info was loaded successfully
+[Loading animated textures]
+Done!
+[Loading textures]
+Loading texture "unnamed.png"...Done!
+Loading texture "unnamed.png"...Done!
+Loading texture "74506.png"...Done!
+Loading texture "unnamed3.png"...Done!
+Loading texture "KAMEN.png"...Done!
+Loading texture "kamenzarasteny.png"...Done!
+Loading texture "KAMEN.png"...Done!
+Loading texture "kamenzarasteny.png"...Done!
+Loading texture "tehly.png"...Done!
+[Loading enemies]
+Loading enemy "nepriatel"...
+Done!
+Loading enemy "nepratel2"...
+Done!
+Loading enemy "napratel3"...
+Done!
+[Loading weapons]
+Weapon "zbra0" was loaded successfully
+Weapon "pistoliik0" was loaded successfully
+[Loading maps info]
+Loading map info for map "map.eem"...
+Done!
+[Loading hp info]
+HP 1 sprite was loaded successfully
+HP 2 sprite was loaded successfully
+HP 3 sprite was loaded successfully
+HP 4 sprite was loaded successfully
+HP info was loaded successfully
+[Loading decorations]
+Loading decoration "test"...
+Done!
+[Loading models info]
+[Loading HUD settings]
+HUD settings were loaded successfully
+[Loading custom tiles]
+Loading tile "ColumnBig"...
+Done!
+Loading tile "ColumnSmall"...
+Done!
+Loading tile "ColumnBig"...
+Done!
+Loading tile "ColumnSmall"...
+Done!
+Global game resources were loaded successfully
+[Loading scripts]
